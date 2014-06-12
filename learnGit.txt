@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 暂存区的作用是保存修改
 这是另外一次修改的尝试
+测试3：如果已经修改，并且将修改提交到了本地版本库
