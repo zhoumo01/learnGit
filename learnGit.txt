@@ -2,3 +2,5 @@ Git is a distributed version control system
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
+暂存区的作用是保存修改
+这是另外一次修改的尝试
