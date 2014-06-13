@@ -1,1 +1,1 @@
-git conflict some test
+git conflict some tests
